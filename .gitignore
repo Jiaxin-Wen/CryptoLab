@@ -1,0 +1,12 @@
+.vscode/
+__pycache__
+submit/
+*.zip
+*.docx
+lab2/main
+lab2/temp
+lab2/hash
+lab2/lab2_submit
+
+lab3/main
+lab3/num*
